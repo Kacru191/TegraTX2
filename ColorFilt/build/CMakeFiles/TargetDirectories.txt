@@ -1,0 +1,3 @@
+/home/nvidia/workspace/ColorFilt/build/CMakeFiles/edit_cache.dir
+/home/nvidia/workspace/ColorFilt/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/workspace/ColorFilt/build/CMakeFiles/color_filter_proj.dir

@@ -1,0 +1,3 @@
+/home/nvidia/workspace/Lab7b/build/CMakeFiles/edit_cache.dir
+/home/nvidia/workspace/Lab7b/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/workspace/Lab7b/build/CMakeFiles/Lab7_proj.dir

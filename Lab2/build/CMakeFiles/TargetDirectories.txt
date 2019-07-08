@@ -1,0 +1,3 @@
+/home/nvidia/workspace/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/workspace/build/CMakeFiles/edit_cache.dir
+/home/nvidia/workspace/build/CMakeFiles/first_app.dir
